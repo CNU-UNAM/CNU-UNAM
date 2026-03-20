@@ -3,7 +3,7 @@
 <h4 style="opacity: 0.5;"><b>Centro de Negocios Universitarios -- Universidad Nacional Autónoma de México</b></h4>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=La+Sartup+de+los+universitarios..&hearts;++;Compromiso;Ambición;Desarrollo+continuo;Pasión;Innovación;Creatividad..&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=La+Startup+de+los+universitarios..&hearts;++;Compromiso;Ambición;Desarrollo+continuo;Pasión;Innovación;Creatividad..&hearts;"></a>
 </p>
 <br>
 
